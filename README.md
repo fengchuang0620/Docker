@@ -24,3 +24,5 @@
 
 [5.操作Docker容器](./docker/5.操作Docker容器.md)
 
+[6.访问Docker仓库](./docker/6.访问Docker仓库.md)
+
