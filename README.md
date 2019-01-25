@@ -26,3 +26,6 @@
 
 [6.访问Docker仓库](./docker/6.访问Docker仓库.md)
 
+[7.Docker数据管理](./docker/7.Docker数据管理.md)
+
+[8.端口映射与容器互联](./docker/8.端口映射与容器互联.md)
